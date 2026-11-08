@@ -3,10 +3,8 @@ clear;
 clc;
 clf();
 
-// =====================================================
 // EXERCICIO 1 - LISTA 4
 // Sistema massa-mola-amortecedor com base movel
-// =====================================================
 
 // 1. Parametros do sistema
 m = 400;       // Massa (kg)
