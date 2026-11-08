@@ -86,8 +86,6 @@ disp("Amplitude de saida para w = 20 rad/s (m):");
 disp(amplitude2);
 
 // 4. Diagramas de Bode
-// O bode padrao do Scilab apresenta frequencia em rad/s.
-// A unidade sera explicitada no titulo.
 
 scf(1);
 clf();
