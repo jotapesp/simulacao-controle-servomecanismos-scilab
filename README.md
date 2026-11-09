@@ -41,7 +41,9 @@ exercícios:
 
 | Arquivo | Conteúdo |
 | --- | --- |
+| `scripts/lista_4/ex1_scripts.sce` | Cálculo de $\zeta$ e $\omega_n$ para $k = 100\,\mathrm{N/m}$, ganhos e fases em $10$ e $20\,\mathrm{rad/s}$ com `horner`, diagramas de Bode, simulação das oscilações da base com `deff` e `csim` e comparação das amplitudes teóricas e simuladas |
 | `scripts/lista_4/ex2_scripts.sce` | Margens de ganho e de fase, diagramas de Nyquist (`show_margins`) e de Black, simulação em malha fechada para $u = \sin(\sqrt{2}\,t)$ com a envoltória $\pm 0{,}64\,t$ e comparação de três períodos de amostragem |
+| `scripts/lista_4/ex3_scripts.sce` | Matrizes de controlabilidade e observabilidade, realimentação de estados com ganho de referência (`ppol`), observador por dualidade, simulação comparativa ao degrau e funções de Lyapunov (`lyap`) |
 
 ---
 
